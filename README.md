@@ -1,4 +1,4 @@
-- 👋 I love programming, gaming and traveling. I'm an active open source contributor and I (sometimes) write blog posts. I have a passion for building excellent software that improves the lives of those around me.
+- 👋 I have a passion for building excellent software that improves the lives of those around me.
 
 - 💞️ My Expertise:
 
