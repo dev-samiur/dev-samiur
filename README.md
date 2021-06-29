@@ -3,7 +3,7 @@
 
 - 💞️ My Expertise:
 
-  Frotnend   : [ ReactJS, VueJS, NextJS, Nuxt.JS, Jquery ]
+  Frotnend   : [ ReactJS, VueJS, NextJS, NuxtJS, Jquery ]
   
   Mobile app : [ React Native ]
   
