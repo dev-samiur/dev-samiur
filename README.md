@@ -3,19 +3,19 @@
 
 - 💞️ My Expertise:
 
-  Frotnend   : [ React.js, Next.js, Vue.js, Nuxt.js, Jquery ]
+  Frotnend   : [ ReactJS, VueJS, NextJS, Nuxt.JS, Jquery ]
   
   Mobile app : [ React Native ]
   
-  Backend    : [ Node.js, Laravel, ASP.net, Flask, Django ]
+  Backend    : [ NodeJS, Laravel, ASP.net, Flask, Django ]
   
   CMS        : [ Strapi ]
   
-  DB         : [ Postgresql, MySQL, MSSQL, SQLite, MongoDB ]
+  DB         : [ PostgreSQL, MySQL, MSSQL, SQLite, MongoDB, Redis ]
   
   ORM/ODM    : [ Mongoose, Typegoose, TypeORM, Sequilize ]
   
-  Languages  : [ C, C++, C#, Java, Python, Typescript, Javascript, php ]
+  Languages  : [ C, C++, C#, Typescript, Javascript, Python, PHP, Java ]
   
   UI         : [ Material-ui, Styled-components, Tailwind.css, Vuetify, Bootstrap ]
    
