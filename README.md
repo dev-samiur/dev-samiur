@@ -9,7 +9,9 @@
   
   Backend    : [ NodeJS, Laravel, ASP.net, Flask, Django ]
   
-  CMS        : [ Strapi ]
+  CMS        : [ Strapi, Contentful, Storyblok, Prismic, Builder.io ]
+
+  SSG        : [ Gatsby ]
   
   DB         : [ PostgreSQL, MySQL, MSSQL, SQLite, MongoDB, Redis ]
   
@@ -17,7 +19,7 @@
   
   Languages  : [ C, C++, C#, Typescript, Javascript, Python, PHP, Java ]
   
-  UI         : [ Material-ui, Styled-components, Tailwind.css, Vuetify, Bootstrap ]
+  UI         : [ Tailwind.css, Material-ui, Styled-components, Vuetify, Bootstrap ]
    
 - 🌱 I’m currently learning Machine Learing/Artificial Inteligence
 
